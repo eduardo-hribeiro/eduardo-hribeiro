@@ -40,6 +40,7 @@ Análise exploratória de dados com estatísticas descritivas e tendências temp
 - Python para Análise de Dados
 - Boas práticas de análise e storytelling com dados
 - Estruturação de projetos e portfólio para área de dados
+- Língua Inglesa para novas oportunidades.
 
 ---
 
