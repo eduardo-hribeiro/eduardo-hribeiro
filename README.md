@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eduardo Ribeiro - Analista de Dados
 ---
-## 🎯 Estudante de Análise de Dados | Em transição de carreira
+## 🎯 Estudante de Análise de Dados
 ## 📊 Foco em transformar dados em insights para apoiar decisões de negócio
 ---
 
