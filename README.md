@@ -46,7 +46,7 @@ Análise exploratória de dados com estatísticas descritivas e tendências temp
 
 ## 📫 Contato
 
-- 📧 Email: eduardo.ribeiro@outlook.com
+- 📧 Email: eduardohribeiropro@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/eduardo-ribeiro-b3b61a39b/
 
 Aberto a oportunidades de estágio ou posição júnior em Análise de Dados.
