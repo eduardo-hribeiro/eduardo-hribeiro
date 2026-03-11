@@ -16,7 +16,7 @@
 
 - SQL (MySQL) – consultas analíticas, agregações e modelagem de dados
 - Google Sheets / Excel – análise, KPIs, dashboards e organização de dados
-- Python – uso de bibliotecas para extração de insights, tais como: Pandas, Numpy, Matplotlib, Seaborn e Scikit-Learn
+- Python – uso de bibliotecas para extração de insights, tais como: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn e Plotly
 - Visualização de Dados com Ferramentas de BI – dashboards e relatórios analíticos
 
 ---
