@@ -1,32 +1,32 @@
-# 👋 Olá, eu sou o Eduardo Ribeiro
+# 👋 Hi, I'm Eduardo Ribeiro
 
-### 📊 Analista de Dados | Power BI • SQL • Python • Excel | Business Intelligence
+### 📊 Data Analyst | Power BI • SQL • Python • Excel | Business Intelligence
 
-Sou estudante de **Ciência da Computação**, com formação complementar em **Análise de Dados pela EBAC**, direcionando minha carreira para **Análise de Dados e Business Intelligence**.
+I am a **Computer Science student** with additional training in **Data Analytics through EBAC**, currently building my career in **Data Analytics and Business Intelligence**.
 
-Desenvolvo projetos práticos voltados a diferentes contextos de negócio, aplicando análise, tratamento, modelagem e visualização de dados para transformar informações em **indicadores, insights e suporte à tomada de decisão**.
+I develop hands-on projects across different business contexts, applying data analysis, cleaning, transformation, modeling, and visualization to turn data into **KPIs, insights, and decision-support solutions**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-### 📊 Business Intelligence & Visualização
+### 📊 Business Intelligence & Data Visualization
 - **Power BI**
 - **Power Query**
 - **DAX**
-- Dashboards e KPIs
+- Dashboards & KPIs
 - Data Visualization
-- Storytelling com Dados
+- Data Storytelling
 
-### 🗄️ Dados & SQL
+### 🗄️ Data & SQL
 - **SQL**
 - **MySQL**
-- Modelagem de Dados
-- Bancos de Dados Relacionais
+- Data Modeling
+- Relational Databases
 - ETL
-- Joins, agregações, subconsultas, CTEs e Window Functions
+- Joins, Aggregations, Subqueries, CTEs & Window Functions
 
-### 🐍 Python para Análise de Dados
+### 🐍 Python for Data Analysis
 - **Python**
 - Pandas
 - NumPy
@@ -35,15 +35,15 @@ Desenvolvo projetos práticos voltados a diferentes contextos de negócio, aplic
 - Scikit-learn
 - Plotly
 
-### 📈 Planilhas & Análise
+### 📈 Spreadsheets & Analytics
 - **Excel**
 - **Google Sheets**
-- Tabelas Dinâmicas
-- KPIs e Dashboards
-- Estatística Descritiva
-- Análise Exploratória de Dados (EDA)
+- Pivot Tables
+- KPIs & Dashboards
+- Descriptive Statistics
+- Exploratory Data Analysis (EDA)
 
-### 📚 Conhecimentos adicionais
+### 📚 Additional Knowledge
 - BigQuery
 - PySpark
 - Machine Learning
@@ -52,97 +52,97 @@ Desenvolvo projetos práticos voltados a diferentes contextos de negócio, aplic
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🛒 Marketplace Analytics | Power BI
 
-Dashboard analítico desenvolvido em **Power BI** para análise de vendas, produtos, clientes, satisfação e desempenho logístico de um marketplace brasileiro.
+Business Intelligence project developed in **Power BI** to analyze the performance of a Brazilian marketplace, covering sales, products, customers, customer satisfaction, and logistics.
 
-**Principais aplicações:**
-- ETL e tratamento de dados com Power Query
-- Modelagem relacional
-- Medidas DAX e KPIs
-- Análises de receita, ticket médio, pedidos, categorias e entregas
-- Drill-through, filtros e tooltips para exploração dos dados
+**Key applications:**
+- ETL and data transformation with Power Query
+- Relational data modeling
+- DAX measures and KPIs
+- Revenue, average order value, orders, categories, and delivery analysis
+- Drill-through, filters, and tooltips for interactive data exploration
 
-🔗 [Ver projeto](https://github.com/eduardo-hribeiro/marketplace-analytics-power-bi)
-
----
-
-### 🐍 Análise Exploratória de E-commerce | Python
-
-Projeto de **Análise Exploratória de Dados (EDA)** desenvolvido em Python para investigar dados de e-commerce e identificar padrões relacionados a produtos, preços, avaliações, vendas e consumidores.
-
-**Tecnologias:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
-**Principais aplicações:**
-- Limpeza e exploração dos dados
-- Estatística descritiva
-- Análise de correlações
-- Visualização de dados
-- Identificação de padrões e geração de insights
-
-🔗 [Ver projeto](https://github.com/eduardo-hribeiro/analise-ecommerce-python)
+🔗 [View Project](https://github.com/eduardo-hribeiro/marketplace-analytics-power-bi)
 
 ---
 
-### 🗄️ Análise de Vendas | SQL
+### 🐍 E-commerce Exploratory Data Analysis | Python
 
-Projeto de análise de dados comerciais utilizando **MySQL**, com consultas analíticas aplicadas a um cenário de negócio.
+**Exploratory Data Analysis (EDA)** project developed in Python to investigate an e-commerce dataset and identify patterns related to products, pricing, ratings, sales, and customer profiles.
 
-**Principais aplicações:**
-- Consultas SQL para exploração dos dados
-- Joins, agregações e subconsultas
-- CTEs e Window Functions
-- Análise de indicadores comerciais
-- Integração dos resultados com Google Sheets
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-🔗 [Ver projeto](https://github.com/eduardo-hribeiro/analise_vendas_SQL)
+**Key applications:**
+- Data cleaning and exploration
+- Descriptive statistics
+- Correlation analysis
+- Data visualization
+- Pattern identification and insight generation
 
----
-
-## 📂 Outros Projetos
-
-Além dos projetos em destaque, meu portfólio inclui projetos envolvendo:
-
-- 📈 **Análise de Performance Comercial** — Excel / Google Sheets
-- 💹 **Análise do Mercado de Ações** — Excel / Google Sheets
-- 🗄️ **Banco de Dados para Restaurante** — SQL / MySQL
-- 💰 **Controle Financeiro Empresarial** — Google Sheets
-- 🐍 **Calculadora Inteligente** — Python / Linux
-
-👉 Explore meus repositórios para conferir os projetos, códigos, análises e documentações.
+🔗 [View Project](https://github.com/eduardo-hribeiro/analise-ecommerce-python)
 
 ---
 
-## 🎓 Formação
+### 🗄️ Sales Analysis | SQL
 
-- 🎓 **Ciência da Computação** — Centro Universitário UniFavip Wyden
-- 📊 **Profissão: Analista de Dados** — EBAC
+Sales data analysis project using **MySQL**, with analytical SQL queries applied to a business scenario.
+
+**Key applications:**
+- SQL queries for data exploration
+- Joins, aggregations, and subqueries
+- CTEs and Window Functions
+- Sales performance analysis
+- Integration of query results with Google Sheets
+
+🔗 [View Project](https://github.com/eduardo-hribeiro/analise_vendas_SQL)
+
+---
+
+## 📂 Other Projects
+
+In addition to the featured projects, my portfolio includes projects involving:
+
+- 📈 **Commercial Performance Analysis** — Excel / Google Sheets
+- 💹 **Stock Market Analysis** — Excel / Google Sheets
+- 🗄️ **Restaurant Database** — SQL / MySQL
+- 💰 **Business Financial Management** — Google Sheets
+- 🐍 **Smart Calculator** — Python / Linux
+
+👉 Explore my repositories to see the projects, code, analyses, and documentation.
+
+---
+
+## 🎓 Education & Training
+
+- 🎓 **B.Sc. in Computer Science** — Centro Universitário UniFavip Wyden
+- 📊 **Data Analyst Professional Program** — EBAC
 - 📈 **Power BI** — EBAC
-- 💻 **TI do Zero ao Pro** — EBAC
+- 💻 **IT from Zero to Pro** — EBAC
 
 ---
 
-## 🌎 Idiomas
+## 🌎 Languages
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Avançado
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco oportunidade como **Analista de Dados Júnior ou Estagiário na área de Dados/BI**, onde possa aplicar e continuar desenvolvendo conhecimentos em análise de dados, SQL, Python, Power BI e Business Intelligence, contribuindo com análises, indicadores e soluções orientadas por dados.
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
 
 ---
 
-## 📫 Contato
+## 🎯 Career Objective
 
-📧 **E-mail:** eduardohribeiropro@gmail.com  
+I am currently seeking opportunities as a **Junior Data Analyst or Data/BI Intern**, where I can apply and continue developing my skills in data analysis, SQL, Python, Power BI, and Business Intelligence while contributing to analyses, KPIs, and data-driven solutions.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** eduardohribeiropro@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/eduardo-ribeiroalves](https://www.linkedin.com/in/eduardo-ribeiroalves/)  
 💻 **GitHub:** [github.com/eduardo-hribeiro](https://github.com/eduardo-hribeiro)
 
 ---
 
-Este perfil reúne minha evolução e meus projetos práticos na área de **Dados e Business Intelligence**.
+This profile showcases my learning journey and hands-on projects in **Data Analytics and Business Intelligence**.
