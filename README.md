@@ -2,53 +2,66 @@
 
 ### 📊 Data Analyst | Power BI • SQL • Python • Excel | Business Intelligence
 
-I am a **Computer Science student** with additional training in **Data Analytics through EBAC**, currently building my career in **Data Analytics and Business Intelligence**.
+I am a **Computer Science student** with additional training in **Data Analytics and Artificial Intelligence through EBAC**, currently building my career in **Data Analytics and Business Intelligence**.
 
 I develop hands-on projects across different business contexts, applying data analysis, cleaning, transformation, modeling, and visualization to turn data into **KPIs, insights, and decision-support solutions**.
+
+I am also expanding my knowledge of **Artificial Intelligence applied to Data Analytics**, with a focus on Generative AI, Machine Learning fundamentals, and AI applications in data processing and analysis.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### 📊 Business Intelligence & Data Visualization
-- **Power BI**
-- **Power Query**
-- **DAX**
-- Dashboards & KPIs
-- Data Visualization
-- Data Storytelling
+
+* **Power BI**
+* **Power Query**
+* **DAX**
+* Dashboards & KPIs
+* Data Visualization
+* Data Storytelling
 
 ### 🗄️ Data & SQL
-- **SQL**
-- **MySQL**
-- Data Modeling
-- Relational Databases
-- ETL
-- Joins, Aggregations, Subqueries, CTEs & Window Functions
+
+* **SQL**
+* **MySQL**
+* Data Modeling
+* Relational Databases
+* ETL
+* Joins, Aggregations, Subqueries, CTEs & Window Functions
 
 ### 🐍 Python for Data Analysis
-- **Python**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Plotly
+
+* **Python**
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Plotly
 
 ### 📈 Spreadsheets & Analytics
-- **Excel**
-- **Google Sheets**
-- Pivot Tables
-- KPIs & Dashboards
-- Descriptive Statistics
-- Exploratory Data Analysis (EDA)
+
+* **Excel**
+* **Google Sheets**
+* Pivot Tables
+* KPIs & Dashboards
+* Descriptive Statistics
+* Exploratory Data Analysis (EDA)
+
+### 🤖 Artificial Intelligence
+
+* Generative AI
+* AI Applications in Data Analytics
+* Machine Learning Fundamentals
+* Supervised & Unsupervised Learning Concepts
 
 ### 📚 Additional Knowledge
-- BigQuery
-- PySpark
-- Machine Learning
-- Linux
-- Git & GitHub
+
+* BigQuery
+* PySpark
+* Linux
+* Git & GitHub
 
 ---
 
@@ -59,11 +72,12 @@ I develop hands-on projects across different business contexts, applying data an
 Business Intelligence project developed in **Power BI** to analyze the performance of a Brazilian marketplace, covering sales, products, customers, customer satisfaction, and logistics.
 
 **Key applications:**
-- ETL and data transformation with Power Query
-- Relational data modeling
-- DAX measures and KPIs
-- Revenue, average order value, orders, categories, and delivery analysis
-- Drill-through, filters, and tooltips for interactive data exploration
+
+* ETL and data transformation with Power Query
+* Relational data modeling
+* DAX measures and KPIs
+* Revenue, average order value, orders, categories, and delivery analysis
+* Drill-through, filters, and tooltips for interactive data exploration
 
 🔗 [View Project](https://github.com/eduardo-hribeiro/marketplace-analytics-power-bi)
 
@@ -76,11 +90,12 @@ Business Intelligence project developed in **Power BI** to analyze the performan
 **Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
 **Key applications:**
-- Data cleaning and exploration
-- Descriptive statistics
-- Correlation analysis
-- Data visualization
-- Pattern identification and insight generation
+
+* Data cleaning and exploration
+* Descriptive statistics
+* Correlation analysis
+* Data visualization
+* Pattern identification and insight generation
 
 🔗 [View Project](https://github.com/eduardo-hribeiro/analise-ecommerce-python)
 
@@ -91,11 +106,12 @@ Business Intelligence project developed in **Power BI** to analyze the performan
 Sales data analysis project using **MySQL**, with analytical SQL queries applied to a business scenario.
 
 **Key applications:**
-- SQL queries for data exploration
-- Joins, aggregations, and subqueries
-- CTEs and Window Functions
-- Sales performance analysis
-- Integration of query results with Google Sheets
+
+* SQL queries for data exploration
+* Joins, aggregations, and subqueries
+* CTEs and Window Functions
+* Sales performance analysis
+* Integration of query results with Google Sheets
 
 🔗 [View Project](https://github.com/eduardo-hribeiro/analise_vendas_SQL)
 
@@ -105,11 +121,11 @@ Sales data analysis project using **MySQL**, with analytical SQL queries applied
 
 In addition to the featured projects, my portfolio includes projects involving:
 
-- 📈 **Commercial Performance Analysis** — Excel / Google Sheets
-- 💹 **Stock Market Analysis** — Excel / Google Sheets
-- 🗄️ **Restaurant Database** — SQL / MySQL
-- 💰 **Business Financial Management** — Google Sheets
-- 🐍 **Smart Calculator** — Python / Linux
+* 📈 **Commercial Performance Analysis** — Excel / Google Sheets
+* 💹 **Stock Market Analysis** — Excel / Google Sheets
+* 🗄️ **Restaurant Database** — SQL / MySQL
+* 💰 **Business Financial Management** — Google Sheets
+* 🐍 **Smart Calculator** — Python / Linux
 
 👉 Explore my repositories to see the projects, code, analyses, and documentation.
 
@@ -117,17 +133,18 @@ In addition to the featured projects, my portfolio includes projects involving:
 
 ## 🎓 Education & Training
 
-- 🎓 **B.Sc. in Computer Science** — Centro Universitário UniFavip Wyden
-- 📊 **Data Analyst Professional Program** — EBAC
-- 📈 **Power BI** — EBAC
-- 💻 **IT from Zero to Pro** — EBAC
+* 🎓 **B.Sc. in Computer Science** — Centro Universitário UniFavip Wyden
+* 📊 **Data Analyst Professional Program** — EBAC
+* 📈 **Power BI** — EBAC
+* 🤖 **Artificial Intelligence** — EBAC
+* 💻 **IT from Zero to Pro** — EBAC
 
 ---
 
 ## 🌎 Languages
 
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Advanced
+* 🇧🇷 Portuguese — Native
+* 🇺🇸 English — Advanced
 
 ---
 
@@ -139,10 +156,11 @@ I am currently seeking opportunities as a **Junior Data Analyst or Data/BI Inter
 
 ## 📫 Contact
 
-📧 **Email:** eduardohribeiropro@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/eduardo-ribeiroalves](https://www.linkedin.com/in/eduardo-ribeiroalves/)  
+📧 **Email:** [eduardohribeiropro@gmail.com](mailto:eduardohribeiropro@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/eduardo-ribeiroalves](https://www.linkedin.com/in/eduardo-ribeiroalves/)
 💻 **GitHub:** [github.com/eduardo-hribeiro](https://github.com/eduardo-hribeiro)
 
 ---
 
-This profile showcases my learning journey and hands-on projects in **Data Analytics and Business Intelligence**.
+This profile showcases my learning journey and hands-on projects in **Data Analytics and Business Intelligence**, while I continue expanding my knowledge of **Artificial Intelligence applied to Data Analytics**.
+
